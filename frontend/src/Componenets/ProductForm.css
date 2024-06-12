@@ -1,0 +1,16 @@
+.card {
+    height: 100%;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+  }
+  
+  .card-subtitle {
+    color: #6c757d;
+  }
+  
+  .card-text {
+    font-size: 0.875rem;
+  }
+  
